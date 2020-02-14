@@ -1,4 +1,5 @@
 site_name: Certified Cloud Practitioner
 nav:
     - Home: index.md
+    - Chapter 2.1: chapter2.1.md
 theme: readthedocs
