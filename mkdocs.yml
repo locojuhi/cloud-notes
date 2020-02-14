@@ -1,0 +1,4 @@
+site_name: Certified Cloud Practitioner
+nav:
+    - Home: index.md
+theme: readthedocs
