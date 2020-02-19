@@ -83,3 +83,9 @@ Enables fast, easy and secure transfer of files over long distances between your
 - Eventual consistency for overwirte puts and Deletes (can take some time to propagate)
     - If you update an existing file or delete a file and read it immediately, you may get the older version, or you may not. Basically changes to objects can take alittle bit of time to propagate.
 - Storage classes (see above)
+
+### Aditional exam tips
+- Bucket names sahre a common ranme space. you cant have the same bucket name
+- when you view you buckets you view them globally but you can have bucket in individual regions
+- You can replicate the contents of one bucket to another region bucket by using cross region replication
+- You can change storage classes and encryption of objects on the fly
