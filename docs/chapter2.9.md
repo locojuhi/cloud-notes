@@ -89,10 +89,12 @@ Enables fast, easy and secure transfer of files over long distances between your
 - when you view you buckets you view them globally but you can have bucket in individual regions
 - You can replicate the contents of one bucket to another region bucket by using cross region replication
 - You can change storage classes and encryption of objects on the fly
-<<<<<<< HEAD
 - Restricting bucket access
     - Bucket policies (applies across the whole bucket)
     - Object policies (applies to individual files)
     - IAM Policies to Users and Groups (aplies to users and groups)
-=======
->>>>>>> ae5c31c3262a220330e343308bfee08e02a85c04
+
+### Aditional exam tips
+- You can use the bucket policies to make entire s3 bucket public
+- You can use S3 to host STATIC websites (such as .html) website that require database cant be served
+- S3 scales automatically to meet your demand
