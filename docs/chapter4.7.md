@@ -14,3 +14,6 @@
 - Key Management Store
 - IAM what can be configured
 - egress-only Internet gateway
+- Amazon GuardDuty
+- Types of budgets
+- configuratble components of IAM
