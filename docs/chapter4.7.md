@@ -5,9 +5,9 @@
 
 - Artifacts
 
-- compliance certification * * * * *
-- EMR
-- What offers aws on free tier
+- compliance certification * * * * * x
+- EMR x
+- What offers aws on free tier x 
 - Category of the services
 - AWS Well-Architected Framework
 - AWS Assurance Program
