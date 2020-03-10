@@ -8,12 +8,12 @@
 - compliance certification * * * * * x
 - EMR x
 - What offers aws on free tier x 
-- Category of the services
-- AWS Well-Architected Framework
-- AWS Assurance Program
-- Key Management Store
-- IAM what can be configured
+- Category of the services X
+- AWS Well-Architected Framework X
+- AWS Assurance Program X
+- Key Management Store X
+- IAM what can be configured X
 - egress-only Internet gateway
-- Amazon GuardDuty
-- Types of budgets
-- configuratble components of IAM
+- Amazon GuardDuty X 
+- Types of budgets X
+- configuratble components of IAM X
